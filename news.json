@@ -1,19 +1,14 @@
 {
     "news": [
         {
-            "name": "Korzeniowski Warsaw Race Walk Cup",
+            "name": "Korzeniowski Warsaw Race Walk Cup 2023",
             "date": "2023-04-23",
             "image": "pge.webp"
         },
         {
-            "name": "Korzeniowski Warsaw Race Walk Cup",
-            "date": "2023-04-23",
-            "image": "pge.webp"
-        },
-        {
-            "name": "Korzeniowski Warsaw Race Walk Cup",
-            "date": "2023-04-23",
-            "image": "pge.webp"
+            "name": "Halowe Mistrzostwa Polski 2023",
+            "date": "2023-02-10",
+            "image": "hmp2023.webp"
         }
     ]
 }
