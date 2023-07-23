@@ -1,14 +1,16 @@
 {
     "news": [
         {
+            "name": "Mistrzostwa Polski u18 Chorzow",
+            "date": "2023-07-08"
+        },
+        {
             "name": "Korzeniowski Warsaw Race Walk Cup 2023",
-            "date": "2023-04-23",
-            "image": "pge.webp"
+            "date": "2023-04-23"
         },
         {
             "name": "Halowe Mistrzostwa Polski 2023",
-            "date": "2023-02-10",
-            "image": "hmp2023.webp"
+            "date": "2023-02-10"
         }
     ]
 }
